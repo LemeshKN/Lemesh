@@ -1,6 +1,5 @@
 # Hey, Nice To See You ! 👋
 
-<img src="https://www.canva.com/design/DAGd3NSeutQ/LnLDHZzdHm0O7AQy7xlzHw/watch?utm_content=DAGd3NSeutQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h615b7ee617"/>
 
 ## About Me 🚀
 I'm **Lemesh Kumar Nishad** from **India**, and I'm on a journey to become a **Data Scientist**. I'm passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**, and I'm constantly learning and exploring new concepts in these fields.  
