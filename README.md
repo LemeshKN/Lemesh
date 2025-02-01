@@ -1,6 +1,6 @@
 # Hey, Nice To See You ! 👋
 
-
+<img align="centar" alt="coding" width="100%" src="https://github.com/Aayushajs/Aayushajs/blob/main/aayush.ajs.gif">
 ## About Me 🚀
 I'm **Lemesh Kumar Nishad** from **India**, and I'm on a journey to become a **Data Scientist**. I'm passionate about **Artificial Intelligence (AI)** and **Machine Learning (ML)**, and I'm constantly learning and exploring new concepts in these fields.  
 
